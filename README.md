@@ -1,7 +1,6 @@
 # Mateus Galdino
 
-Desenvolvedor backend com foco em Java e Spring Boot.
-Aprendo construindo projetos reais — é assim que desenvolvo julgamento técnico de verdade.
+Desenvolvedor Backend com foco em modelagem de dominios e arquitetura de software
 
 📍 Recife, PE  
 🎓 Sistemas para Internet — UNICAP  
@@ -10,22 +9,61 @@ Aprendo construindo projetos reais — é assim que desenvolvo julgamento técni
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tecnologias
 
-**Backend:** Java, Spring Boot, JPA/Hibernate, REST API, JDBC  
-**Banco de dados:** MySQL  
-**Frontend:** HTML, CSS, JavaScript  
-**Ferramentas:** Git, IntelliJ IDEA, Bruno
+### Backend
+- Java
+- Spring Boot
+- JPA / Hibernate
+- JDBC
+- REST APIs
 
+### Banco de Dados
+- PostgreSQL
+- SQL
+
+### Ferramentas
+- Git
+- IntelliJ IDEA
+- Maven
+- Bruno
+
+### Atualmente estudando
+- Modelagem de Domínio
+- Object-Oriented Design (OOD)
+- Docker
 ---
 
 ## 🚀 Projetos
 
-**[Biblioteca](https://github.com/MateusGaldinoBarros/Biblioteca)** — API REST de gerenciamento de bibliotecas com arquitetura em camadas (Controller, Service, Repository, DTO), JPA/Hibernate, tratamento centralizado de erros e integração com a Open Library API. `Em desenvolvimento`
+### 🐾 MiuAmigos
 
-**[To-Do List](https://github.com/MateusGaldinoBarros/To-do-list)** — Gerenciador de tarefas em Java com JDBC puro, padrão DAO, PreparedStatement para prevenção de SQL Injection e CRUD completo com filtro por status.
+Plataforma para auxiliar ONGs no gerenciamento de adoções e divulgação de animais.
 
-**[Calculadora IRPF](https://github.com/MateusGaldinoBarros/Projeto_PPWEB)** — Calculadora de Imposto de Renda em JavaScript com lógica de alíquota progressiva por faixas seguindo as tabelas oficiais da Receita Federal.
+Principais funcionalidades:
+
+- Cadastro de animais
+- Solicitação de adoção
+- Matchmaking entre adotantes e pets
+- Geração automática de conteúdo com IA
+- Divulgação automatizada para redes sociais
+
+Tecnologias:
+Java, Spring Boot, PostgreSQL, React
+
+### 📚 Biblioteca
+
+API REST para gerenciamento de bibliotecas.
+
+Destaques:
+
+- Arquitetura em camadas
+- DTOs para comunicação externa
+- Tratamento global de exceções
+- Persistência com JPA/Hibernate
+
+Tecnologias:
+Java, Spring Boot, PostgreSQL
 
 ## 📬 Contato
 
